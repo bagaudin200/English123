@@ -486,4 +486,3 @@ if __name__ == '__main__':
         else:
             print('Unknown command:', args.cmd)
             print_help()
-
